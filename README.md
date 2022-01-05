@@ -1,3 +1,7 @@
+# My notes
+
+These are some CSS exercises I've forked and worked on from the Odin Project. 
+
 # CSS Exercises
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
